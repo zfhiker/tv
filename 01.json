@@ -60,6 +60,7 @@
             "api": "csp_AppXY",
             "searchable": 1,
             "quickSearch": 0,
+            "playerType":2,
             "filterable": 0
         },
         {
