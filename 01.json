@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/spider.jar",
+    "spider": "https://ghp.ci/https://github.com/zfhiker/tv/raw/main/JAR/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "homeLogo": "http://127.0.0.1:9978/file/TVBox/logo.png",
